@@ -1,0 +1,13 @@
+id: youMakeUp_i3d_rgb_pdvcl
+base_cfg_path: cfgs/youMakeUp_c3d_pdvcl.yml
+visual_feature_type: ['i3d_rgb']
+visual_feature_folder: ['data/youMakeUp/features/i3d']
+feature_dim: 1024
+batch_size: 10
+
+caption_loss_coef: 2
+giou_loss_coef: 4
+self_iou_loss_coef: 0
+bbox_loss_coef: 0
+cls_loss_coef: 2
+count_loss_coef: 0.5

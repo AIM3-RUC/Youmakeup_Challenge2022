@@ -1,0 +1,4 @@
+# ninja log v5
+0	3370	1647165763582769774	/data1/YSY/PDVC/pdvc/ops/build/temp.linux-x86_64-3.7/data1/YSY/PDVC/pdvc/ops/src/cpu/ms_deform_attn_cpu.o	30fc120c3b3b0e30
+1	12545	1647165772750756304	/data1/YSY/PDVC/pdvc/ops/build/temp.linux-x86_64-3.7/data1/YSY/PDVC/pdvc/ops/src/cuda/ms_deform_attn_cuda.o	1632e3e40e29128b
+0	17528	1647165777730748983	/data1/YSY/PDVC/pdvc/ops/build/temp.linux-x86_64-3.7/data1/YSY/PDVC/pdvc/ops/src/vision.o	4eee83d26484215b
