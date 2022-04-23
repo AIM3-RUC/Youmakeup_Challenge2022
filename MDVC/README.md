@@ -69,8 +69,8 @@ python eval.py --eval_folder ${eval_folder} --eval_transformer_input_type querie
 
 |  Model | Features | Recall | Precision | METEOR | Bleu_4 | CIDEr |
 |  ----  |  ----   |  ----  |  ----  |  ----  |   ----  |  ----  |
-| PDVC_light | C3D | 0.2116 | 0.2641 | 0.0944 | 0.0380 | 0.4122 |
-| PDVC_light | I3D | 0.2375 | 0.3147 | 0.1248 | 0.0629 | 0.6818 |
+| PDVC_light | C3D | 21.16 | 26.41 | 9.44 | 3.80 | 41.22 |
+| PDVC_light | I3D | 23.75 | 31.47 | 12.48 | 6.29 | 68.18 |
 
 ### Checkpoints are available
 * [google drive](https://drive.google.com/file/d/1nJfwikWC0atUwJQptiJq-W4LFpmldewh/view?usp=sharing) 
