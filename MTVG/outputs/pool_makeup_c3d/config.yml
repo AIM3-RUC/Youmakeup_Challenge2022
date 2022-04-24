@@ -1,0 +1,65 @@
+DATALOADER:
+  NUM_WORKERS: 12
+DATASETS:
+  NAME: makep
+  TEST:
+  - makeup_test
+  TRAIN:
+  - makeup_train
+INPUT:
+  NUM_PRE_CLIPS: 256
+MODEL:
+  ARCHITECTURE: MMN
+  DEVICE: cuda
+  MMN:
+    FEAT2D:
+      NAME: pool
+      POOLING_COUNTS:
+      - 15
+      - 8
+      - 8
+      - 8
+    FEATPOOL:
+      HIDDEN_SIZE: 512
+      INPUT_SIZE: 4096
+      KERNEL_SIZE: 2
+    JOINT_SPACE_SIZE: 256
+    LOSS:
+      BCE_WEIGHT: 1
+      CONTRASTIVE_WEIGHT: 0.1
+      MARGIN: 0.1
+      MAX_IOU: 0.7
+      MIN_IOU: 0.3
+      NEGATIVE_VIDEO_IOU: 0.5
+      NUM_POSTIVE_VIDEO_PROPOSAL: 3
+      PAIRWISE_SENT_WEIGHT: 0.0
+      SENT_REMOVAL_IOU: 0.5
+      TAU_SENT: 0.1
+      TAU_VIDEO: 0.1
+    NUM_CLIPS: 128
+    PREDICTOR:
+      HIDDEN_SIZE: 512
+      KERNEL_SIZE: 5
+      NUM_STACK_LAYERS: 8
+    TEXT_ENCODER:
+      NAME: BERT
+OUTPUT_DIR: outputs/pool_makeup_c3d
+PATHS_CATALOG: /data1/wdmmsyf/ground/MNN/mmn/mmn/config/paths_catalog.py
+SOLVER:
+  BATCH_SIZE: 8
+  CHECKPOINT_PERIOD: 1
+  FREEZE_BERT: 40
+  LR: 0.003
+  MAX_EPOCH: 40
+  MILESTONES:
+  - 130
+  - 190
+  ONLY_IOU: 100
+  RESUME: false
+  RESUME_EPOCH: 37
+  SKIP_TEST: 0
+  TEST_PERIOD: 1
+TEST:
+  BATCH_SIZE: 48
+  CONTRASTIVE_SCORE_POW: 0.3
+  NMS_THRESH: 0.4
