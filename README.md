@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/24662157/165009909-074b8861-2223-43ba-8958-a47753e2f152.png)
 
-This repo provides data downloads and baseline codes for the MTVG and MDVC sub-challenges in the [4th PIC Challenge](http://www.picdataset.com/).
+This repo provides data downloads and baseline codes for the MTVG and MDVC sub-challenges in the [4th PIC Challenge](http://www.picdataset.com/) held in conjunction with [ACM MM 2022](https://2022.acmmm.org/).
 
 If you have any questions, you can contact us with youmakeup2022@163.com.
 
