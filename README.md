@@ -26,7 +26,7 @@ In the  PIC Challenges 2022 , we use the following data split:
 
 ## Data Download
 
-Due to copyright, we provide **extracted frames** (three frames per second) from the original 2800 videos in  **here**[Coming soon].
+Due to copyright, we provide **extracted frames** (three frames per second) from the original 2800 videos  **here**[Coming soon]. We divide all the videos into 5 separate packages.
 
 Besides, we also provide the **pre-processed features** using [c3d](https://arxiv.org/pdf/1412.0767v4.pdf) and [i3d](https://arxiv.org/pdf/1705.07750.pdf):
 
