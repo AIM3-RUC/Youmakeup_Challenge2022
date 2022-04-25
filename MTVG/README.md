@@ -26,7 +26,7 @@ The hdf5 files should be put into folder `./dataset/makeup`.
 
 2.Prepare caption data
 
-**Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](), password:.
+**Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1banMOG5flQuQcjWtEAvZHw), password:7xw3.
 
 Caption data has been provided in folder `./dataset/makeup`.
 
@@ -60,11 +60,11 @@ The default feature we use is I3D feature. If you want to change to C3D feature,
 
 ## Checkpoints are available
 
-i3d_e20.model: [google_drive]() or [baidu_cloud]()
+i3d_e20.model: [google_drive](https://drive.google.com/drive/folders/1ubpZJrVTjz-L-ZjrLn13ilPyMQ4fcBBp?usp=sharing) or [baidu_cloud](https://pan.baidu.com/s/1Hp0vypSt5cKWXvdWN5OlOQ) password:j571. 
 
-c3d_e20.model: [google_drive]() or [baidu_cloud]()
+c3d_e20.model: [google_drive](https://drive.google.com/drive/folders/1ubpZJrVTjz-L-ZjrLn13ilPyMQ4fcBBp?usp=sharing) or [baidu_cloud](https://pan.baidu.com/s/1F9gD8hO4w8ArZEVJQm-7xA) password:lsf0.
 
-The checkpoint should be put into `./outputs/pool_makeup_i3d/` or `./outputs/pool_makeup_c3d/`.
+The checkpoints should be put into `./outputs/pool_makeup_i3d/` or `./outputs/pool_makeup_c3d/`.
 
 The checkpoints' performances are as below:
 
