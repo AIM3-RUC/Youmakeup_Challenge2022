@@ -72,7 +72,7 @@ Given an untrimmed make-up video and a step query, the Make-up Temporal Video Gr
 
 We adopt “R@n, IoU=m” with n in {1} and m in {0.3, 0.5, 0.7} as evaluation metrics. It means that the percentage of at least one of the top-n results having Intersection over Union (IoU) with the ground truth larger than m.
 
-The evaluation code used by the evaluation server can be found here[Coming soon].
+The evaluation code used by the evaluation server can be found [here](https://github.com/AIM3-RUC/Youmakeup_Challenge2022/blob/main/MTVG/evaluation.py).
 
 
 
