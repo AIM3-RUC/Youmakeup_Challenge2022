@@ -149,10 +149,18 @@ To reproduce it, please refer to the [MDVC folder](https://github.com/AIM3-RUC/Y
 
 The results of the baseline model on val set is:
 
-| Model      | Features | Recall | Precision | METEOR | Bleu4 | CIDEr |
+| Model      | Features | Recall | Precision | METEOR | BLEU4 | CIDEr |
 | ---------- | -------- | ------ | --------- | ------ | ----- | ----- |
 | PDVC_light | C3D      | 21.16  | 26.41     | 9.44   | 3.80  | 41.22 |
 | PDVC_light | I3D      | 23.75  | 31.47     | 12.48  | 6.29  | 68.18 |
 
 
+## Citation
 
+```
+@inproceedings{chen2020vqabaseline,
+  title={YouMakeup VQA Challenge: Towards Fine-grained Action Understanding in Domain-Specific Videos,
+  author={Chen, Shizhe and Wang, Weiying and Ruan, Ludan and Yao, Linli and Jin, Qin},
+  year={2019}
+}
+```
