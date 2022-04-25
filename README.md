@@ -1,6 +1,6 @@
 # 4th PIC Challenge(MTVG & MDVC)
 
-![Logo_new](./images/Logo_new.png)
+![logo](https://user-images.githubusercontent.com/24662157/165009512-eba994cb-4a6f-4a95-910b-e5aefa355b91.png)
 
 This repo provides data downloads and baseline codes for the MTVG and MDVC sub-challenges in the [4th PIC Challenge](http://www.picdataset.com/).
 
@@ -65,7 +65,8 @@ makeup_i3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id
 
 Given an untrimmed make-up video and a step query, the Make-up Temporal Video Grounding(MTVG) aims to localize the target make-up step in the video. This task requires models to align fine-grained video-text semantics and distinguish makeup steps with subtle difference.
 
-![theme_mtvg](./images/theme_mtvg.jpg)
+![theme_mtvg](https://user-images.githubusercontent.com/24662157/165009554-5ef8101e-ca83-4964-93b0-26ce636a1508.jpg)
+
 
 #### **Evaluation Metric**
 
@@ -110,7 +111,8 @@ The results of the baseline model on val set is:
 
 Given an untrimmed make-up video, the Make-up Dense Video Caption (MDVC) task aims to localize and describe a sequence of makeup steps in the target video.  This task requires models to both detect and describe fine-grained make-up events in a video.
 
-![theme_mdvc](./images/theme_mdvc.jpg)
+![theme_mdvc](https://user-images.githubusercontent.com/24662157/165009577-ff412a61-ae45-489b-800e-a09de16cf9d8.jpg)
+
 
 #### **Evaluation Metric**
 
