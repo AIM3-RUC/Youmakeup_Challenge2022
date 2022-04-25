@@ -1,7 +1,7 @@
 # YouMakeup MDVC Baseline
 
 ## Introduction
-This is the baseline for a sub-task of [YouMakeup_Challenge_2022](https://github.com/AIM3-RUC/YouMakeup_Challenge_2022) to generate dense video captions. We applied [PDVC](https://github.com/ttengwang/PDVC.git) to [YouMakeup](https://github.com/AIM3-RUC/YouMakeup) dataset. You can get the details of the model from the paper: [End-to-End Dense Video Captioning with Parallel Decoding (ICCV 2021)](https://arxiv.org/abs/2108.07781)
+This is the baseline for the MDVC sub-challenge of [PIC Challenge](http://www.picdataset.com/) to generate dense video captions. We applied [PDVC](https://github.com/ttengwang/PDVC.git) to [YouMakeup](https://github.com/AIM3-RUC/YouMakeup) dataset. You can get the details of the model from the paper: [End-to-End Dense Video Captioning with Parallel Decoding (ICCV 2021)](https://arxiv.org/abs/2108.07781)
 
 ## Preparation
 Environment: <br>
