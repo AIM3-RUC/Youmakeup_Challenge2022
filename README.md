@@ -1,6 +1,6 @@
 # 4th PIC Challenge(MTVG & MDVC)
 
-![logo](https://user-images.githubusercontent.com/24662157/165009512-eba994cb-4a6f-4a95-910b-e5aefa355b91.png)
+![logo](https://user-images.githubusercontent.com/24662157/165009909-074b8861-2223-43ba-8958-a47753e2f152.png)
 
 This repo provides data downloads and baseline codes for the MTVG and MDVC sub-challenges in the [4th PIC Challenge](http://www.picdataset.com/).
 
@@ -111,7 +111,7 @@ The results of the baseline model on val set is:
 
 Given an untrimmed make-up video, the Make-up Dense Video Caption (MDVC) task aims to localize and describe a sequence of makeup steps in the target video.  This task requires models to both detect and describe fine-grained make-up events in a video.
 
-![theme_mdvc](https://user-images.githubusercontent.com/24662157/165009577-ff412a61-ae45-489b-800e-a09de16cf9d8.jpg)
+![theme_mdvc](https://user-images.githubusercontent.com/24662157/165009974-967b783a-252a-4c0b-8622-98ade5794d0b.png)
 
 
 #### **Evaluation Metric**
