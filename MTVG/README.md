@@ -62,7 +62,7 @@ The default feature we use is I3D feature. If you want to change to C3D feature,
 
 i3d_e20.model: [google_drive](https://drive.google.com/drive/folders/1ubpZJrVTjz-L-ZjrLn13ilPyMQ4fcBBp?usp=sharing) or [baidu_cloud](https://pan.baidu.com/s/1Hp0vypSt5cKWXvdWN5OlOQ) password:j571. 
 
-c3d_e20.model: [google_drive](https://drive.google.com/drive/folders/1ubpZJrVTjz-L-ZjrLn13ilPyMQ4fcBBp?usp=sharing) or [baidu_cloud](https://pan.baidu.com/s/1F9gD8hO4w8ArZEVJQm-7xA) password:lsf0.
+c3d_e20.model: [google_drive](https://drive.google.com/drive/folders/1oF9N3OP6AbzmlNYzE5vMOmAkxCRoyPWD?usp=sharing) or [baidu_cloud](https://pan.baidu.com/s/1F9gD8hO4w8ArZEVJQm-7xA) password:lsf0.
 
 The checkpoints should be put into `./outputs/pool_makeup_i3d/` or `./outputs/pool_makeup_c3d/`.
 
