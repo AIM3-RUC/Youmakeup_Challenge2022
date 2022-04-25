@@ -1,8 +1,8 @@
-# YouMakeUp MTVG
+# YouMakeUp MTVG Task
 
 ## Introduction
 
-This is baseline code for the sub-task of [YouMakeup_Challenge_2022](https://github.com/AIM3-RUC/YouMakeup_Challenge_2022) to localize the target event in the video. We applied [MMN](https://arxiv.org/pdf/2109.04872v2.pdf) to [YouMakeup](https://github.com/AIM3-RUC/YouMakeup) dataset. You can get the details of the model from the paper: [Negative Sample Matters: A Renaissance of Metric Learning for Temporal Grounding](https://arxiv.org/pdf/2109.04872v2.pdf)
+This is the baseline for the MTVG sub-challenge of [PIC Challenge](http://www.picdataset.com/)  to localize the target event in the video. We applied [MMN](https://arxiv.org/pdf/2109.04872v2.pdf) to [YouMakeup](https://github.com/AIM3-RUC/YouMakeup) dataset. You can get the details of the model from the paper: [Negative Sample Matters: A Renaissance of Metric Learning for Temporal Grounding](https://arxiv.org/pdf/2109.04872v2.pdf)
 
 ## Preparation
 
