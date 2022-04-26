@@ -36,8 +36,7 @@ makeup_i3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id
 
 
 
-**Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1Nq3NfY1fNjcQ90k9FG-GhQ), password:b3m1. An annotated example in  .json  file is as follows:
-
+**Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/16JUlUoOHDqhuQy9W-0n2kg), password:31jo. An annotated example in  .json  file is as follows:
 ```
 {
     "video_id": "-2FjMSPITn8", # video id
