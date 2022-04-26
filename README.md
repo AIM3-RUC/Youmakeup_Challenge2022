@@ -106,9 +106,9 @@ The results of the baseline model on val set is:
 
 
 
-## Make-up Dense Video Caption Sub-Challenge
+## Make-up Dense Video Captioning Sub-Challenge
 
-Given an untrimmed make-up video, the Make-up Dense Video Caption (MDVC) task aims to localize and describe a sequence of makeup steps in the target video.  This task requires models to both detect and describe fine-grained make-up events in a video.
+Given an untrimmed make-up video, the Make-up Dense Video Captioning (MDVC) task aims to localize and describe a sequence of makeup steps in the target video.  This task requires models to both detect and describe fine-grained make-up events in a video.
 
 ![theme_mdvc](https://user-images.githubusercontent.com/24662157/165009974-967b783a-252a-4c0b-8622-98ade5794d0b.png)
 
