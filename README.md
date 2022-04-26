@@ -31,7 +31,7 @@ makeup_c3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id
 
 makeup_i3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id=1cT5MKcmSmqS6xC_i2dI2wbJ3n7mdFh7o) or [baidu_cloud](https://pan.baidu.com/s/1OH_6LvUWvRTcPO33wcjZ_g)  password:nrlu 
 
-(Optional) You can sign the [copyright form]() and send it to youmakeup2022@163.com to obtain **extracted frames** (three frames per second) from the original 2800 videos.
+(Optional) You can sign the [datat license form](https://github.com/AIM3-RUC/Youmakeup_Challenge2022/blob/main/License%20Agreement.pdf) and send it to youmakeup2022@163.com and we will provide **extracted frames** (three frames per second) from the original 2800 videos.
 
 
 **Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/16JUlUoOHDqhuQy9W-0n2kg), password:31jo. An annotated example in  .json  file is as follows:
