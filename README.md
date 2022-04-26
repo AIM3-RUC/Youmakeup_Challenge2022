@@ -25,15 +25,13 @@ In the  PIC Challenges 2022 , we use the following data split:
 
 
 ## Data Download
-
-Due to copyright, we provide **extracted frames** (three frames per second) from the original 2800 videos  **here**[Coming soon]. We divide all the videos into 5 separate packages.
-
-Besides, we also provide the **pre-processed features** using [c3d](https://arxiv.org/pdf/1412.0767v4.pdf) and [i3d](https://arxiv.org/pdf/1705.07750.pdf):
+We provide the **pre-processed features** of raw videos using [c3d](https://arxiv.org/pdf/1412.0767v4.pdf) and [i3d](https://arxiv.org/pdf/1705.07750.pdf):
 
 makeup_c3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id=1gPGEYej70hKM6e-ftXI0RBNzn4AokMJ1) or [baidu_cloud](https://pan.baidu.com/s/1zaKC2BIw5ARmuYKybcAgDg)  password:hcw8
 
 makeup_i3d_rgb_stride_1s.zip in: [google drive](https://drive.google.com/open?id=1cT5MKcmSmqS6xC_i2dI2wbJ3n7mdFh7o) or [baidu_cloud](https://pan.baidu.com/s/1OH_6LvUWvRTcPO33wcjZ_g)  password:nrlu 
 
+(Optional) You can sign the [copyright form]() and send it to youmakeup2022@163.com to obtain **extracted frames** (three frames per second) from the original 2800 videos.
 
 
 **Annotations of videos** on train/val set are [here](https://drive.google.com/drive/folders/1vKTZh8eDAJYAtD6AYa7606xu74azd2iY?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/16JUlUoOHDqhuQy9W-0n2kg), password:31jo. An annotated example in  .json  file is as follows:
