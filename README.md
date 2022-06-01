@@ -16,7 +16,7 @@ It contains 2,800 videos from YouTube, spanning more than 420 hours in total. Ea
 
 For more details, you can find them in [YouMakeup Dataset](https://github.com/AIM3-RUC/YouMakeup).
 
-In the  PIC Challenges 2022 , we use the following data split:
+In the PIC Challenges 2022 , we use the following data split. In order to avoid information leakage between the two sub-challenges, we divide the raw test set into two equal parts (containing 420 videos) as the new test set for MTVG and MDVC tasks respectively.
 
 | \# Total | \# Train | \# Val | #Test | Video_len |
 | -------- | -------- | ------ | ----- | --------- |
