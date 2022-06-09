@@ -7,8 +7,14 @@ This repo provides data downloads and baseline codes for the MTVG and MDVC sub-c
 If you have any questions, please contact us with youmakeup2022@163.com.
 
 ## 2022.6.10 Update!
+**Test Set**
+
 The test sets for the two sub-challenges are released [here](https://drive.google.com/drive/folders/1FPDE-fiJjBKakTWfG_zeJhTsN7TFOrL4?usp=sharing) or [baidu_cloud(password:fn5f)](https://pan.baidu.com/s/1CSM8jOG1qHF1PiSuU4RwEg).
+
+**Submission**
+
 The submission website for MTVG challenge is [here](https://codalab.lisn.upsaclay.fr/competitions/5244).
+
 The submission website for MDVC challenge is [here](https://codalab.lisn.upsaclay.fr/competitions/5102).
 
 ## Dataset  Introduction
