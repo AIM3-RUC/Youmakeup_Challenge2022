@@ -9,7 +9,13 @@ If you have any questions, please contact us with youmakeup2022@163.com.
 ## 2022.6.10 Update!
 **Test Set**
 
-The test sets for the two sub-challenges are released [here](https://drive.google.com/drive/folders/1FPDE-fiJjBKakTWfG_zeJhTsN7TFOrL4?usp=sharing) or [baidu_cloud(password:fn5f)](https://pan.baidu.com/s/1CSM8jOG1qHF1PiSuU4RwEg).
+The test sets (MTVG_test.json & MDVC_test.json) for the two sub-challenges are released [here](https://drive.google.com/drive/folders/1FPDE-fiJjBKakTWfG_zeJhTsN7TFOrL4?usp=sharing) or [baidu_cloud(password:fn5f)](https://pan.baidu.com/s/1CSM8jOG1qHF1PiSuU4RwEg).
+
+**Notice**
+
+1) The old MTVG_release.json has been updated to MTVG_test.json
+
+2) There is a key mistake in released I3D features: "yacTEParlnQ.npy" -> "yacTEParlnQ"
 
 **Submission**
 
