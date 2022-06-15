@@ -172,6 +172,15 @@ The results of the baseline model on val set is:
 ## Citation
 
 ```
+@inproceedings{wang2019youmakeup,
+  title={YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension},
+  author={Wang, Weiying and Wang, Yongcheng and Chen, Shizhe and Jin, Qin},
+  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+  pages={5136--5146},
+  year={2019}
+}
+
+
 @inproceedings{chen2020vqabaseline,
   title={YouMakeup VQA Challenge: Towards Fine-grained Action Understanding in Domain-Specific Videos,
   author={Chen, Shizhe and Wang, Weiying and Ruan, Ludan and Yao, Linli and Jin, Qin},
